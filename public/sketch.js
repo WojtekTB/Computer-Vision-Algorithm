@@ -11,6 +11,7 @@ var objects = [];
 
 function preload(){
   mainImage = loadImage("./original-small contrast.jpg");
+  // mainImage = loadImage("./Contrast.jpg");
   // mainImage = loadImage("./test.jpg");
 }
 
